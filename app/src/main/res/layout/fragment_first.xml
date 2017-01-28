@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.techpalle.dynamicfragmentexample1.FirstFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#F00"
+        android:textSize="30sp"
+        android:text="Welcome JAVA !!"
+        android:gravity="center"
+        android:id="@+id/view"/>
+
+</LinearLayout>
